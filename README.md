@@ -4,10 +4,11 @@ using an excel sheet, populates input fields in various calc sheets in mathCAD u
 
 - read "FILES" to get list of files
 - error handling / checking
-- make new program that extends the excel implicit operator thing using mmd tables
+- make html ui using js calls per mathCAD api documentation.
+	- add to github site
 - handle outputs
 
-# Prep
+# Workflow
 
 - Create an input database
 	- spreadsheet
